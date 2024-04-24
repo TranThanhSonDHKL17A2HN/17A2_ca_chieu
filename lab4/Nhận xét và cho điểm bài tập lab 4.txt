@@ -1,0 +1,28 @@
+- Bài 1: 
+a) b) sử dụng kiến thức ngoài kiến thức đã học ở các lab
+c) đúng
+Điểm bài tập: 1.5
+
+- Bài 2: 
+a) đúng
+b) đúng
+c) dãy fibonacci bắt đầu từ số 0 chứ không phải số 1
+Điểm bài tập: 2.75
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4:
+a) đúng
+b) đúng
+c) theo đoạn code biểu thức sẽ là -1 + (-1)**1 * 1**2 + (-1)**2 * 2**2 + ... thừa phần tử -1 ở đầu
+d) theo đoạn code biểu thức sẽ là 1.3 + 2.4 + .... không phải biểu thức theo yêu cầu đề bài
+Điểm bài tập: 1.25
+
+- Bài 5: đúng
+Điểm bài tập: 1.0 
+
+- Bài 6: đúng
+Điểm bài tập: 1.0 
+
+Tổng điểm bài tập lab 4: 8.5
