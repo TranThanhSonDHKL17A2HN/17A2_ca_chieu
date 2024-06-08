@@ -1,0 +1,11 @@
+Nhận xét và cho điểm bài tập lớn:
+Code: Trong khi lặp qua các ngựa, hãy kiểm tra xem liệu có ngựa nào đã hoàn thành cuộc đua chưa, thay vì kiểm tra sau khi lặp xong.
+Điểm: 2.5
+
+File: Xuất được file csv
+Điểm: 4.0
+
+Không có ảnh chạy code
+Điểm: 0
+
+Điểm bài tập lớn: 6.5
